@@ -62,4 +62,4 @@ Please note that an email not following the conditions might be ignored. And we 
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ping He](https://gnip.website/) all copyright and related or neighboring rights to this repository.
+To the extent possible under law, [Ping He](https://gnip.website/) holds all copyright and related or neighboring rights to this repository.
