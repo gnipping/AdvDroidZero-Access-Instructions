@@ -45,7 +45,7 @@ We have already granted access to researchers from the following institutions:
 
 To avoid misuse, please read and agree to the following conditions before sending us emails.
 
-- After filling out the [from](https://forms.gle/WKWUjHRpNJX8BsnP8), Please feel free to email Ping He (gnip@zju.edu.cn) and CC Shouling Ji (sji@zju.edu.cn) to remind us if we miss the request.
+- After filling out the [from](https://forms.gle/WKWUjHRpNJX8BsnP8), please feel free to email Ping He (gnip@zju.edu.cn) and CC Shouling Ji (sji@zju.edu.cn). This email will serve as a reminder in case your request is inadvertently overlooked.
 - Do not share the code with any others (except your co-authors for the project). We are happy to share with other researchers based upon their requests.
 - If you are in academia, contact us using your institution email and provide us a webpage registered at the university domain that contains your name and affiliation.
 - If you are in research (industrial) labs, send us an email from your company’s email account and introduce yourself and company. In the email, please attach a justification letter (in PDF format) in official letterhead. The letter needs to state clearly the reasons why AdvDroidZero is being requested.
