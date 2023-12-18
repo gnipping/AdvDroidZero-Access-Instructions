@@ -38,7 +38,8 @@ For ethical reasons, we will only be sharing the code with verified academic res
 
 We have already granted access to researchers from the following institutions:
 
-1. Singapore Management University, Singapore
+1. Beijing Jiaotong University
+2. Singapore Management University
 
 
 ## Contact
