@@ -52,7 +52,7 @@ To avoid misuse, please read and agree to the following conditions before sendin
 - If you are in academia, contact us using your institution email and provide us a webpage registered at the university domain that contains your name and affiliation.
 - If you are in research (industrial) labs, send us an email from your company’s email account and introduce yourself and company. In the email, please attach a justification letter (in PDF format) in official letterhead. The letter needs to state clearly the reasons why AdvDroidZero is being requested.
 
-Please note that an email not following the conditions might be ignored. And we will keep the public list of organizations accessing our code.
+Please note that an email not following the conditions might be ignored and we will keep the public list of organizations accessing our code.
 
 ## People
 
