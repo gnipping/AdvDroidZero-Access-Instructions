@@ -40,6 +40,7 @@ We have already granted access to researchers from the following institutions:
 
 1. Beijing Jiaotong University
 2. Singapore Management University
+3. University of Cagliari
 
 
 ## Contact
