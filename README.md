@@ -39,8 +39,10 @@ For ethical reasons, we will only be sharing the code with verified academic res
 We have already granted access to researchers from the following institutions:
 
 1. Beijing Jiaotong University
-2. Singapore Management University
-3. University of Cagliari
+2. Beijing Institute of Technology
+3. Nanjing University of Posts and Telecommunications
+4. Singapore Management University
+5. University of Cagliari
 
 
 ## Contact
