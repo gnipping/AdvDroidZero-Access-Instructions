@@ -42,7 +42,8 @@ We have already granted access to researchers from the following institutions:
 2. Beijing Institute of Technology
 3. Nanjing University of Posts and Telecommunications
 4. Singapore Management University
-5. University of Cagliari
+5. Southeast University
+6. University of Cagliari
 
 
 ## Contact
