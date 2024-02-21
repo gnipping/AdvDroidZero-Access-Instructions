@@ -40,10 +40,14 @@ We have already granted access to researchers from the following institutions:
 
 1. Beijing Jiaotong University
 2. Beijing Institute of Technology
-3. Nanjing University of Posts and Telecommunications
-4. Singapore Management University
-5. Southeast University
-6. University of Cagliari
+3. BITS Pilani, Hyderabad Campus
+4. Chongqing University
+5. Nanjing University of Posts and Telecommunications
+6. Peking University
+7. Politecnico di Milano
+8. Singapore Management University
+9. Southeast University
+10. University of Cagliari
 
 
 ## Contact
